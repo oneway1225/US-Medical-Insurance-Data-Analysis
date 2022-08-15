@@ -3,7 +3,7 @@ Codeacademy Portfolio Project: US Medical Insurance Cost
 
 Hi, my name is Chang-Joon and I am a data scientist in training.
 
-This a simple personal project designed to demonstrate my Python and Pandas knowledge and skills.
+This is a simple personal project designed to demonstrate my Python and Pandas knowledge and skills.
 Both versions perform data analysis using the US medical insurance cost dataset from Kaggle.
 
 Version 2 only uses Python classes and custom functions without importing NumPy or Pandas modules, and only performs simple statistical analyses.
